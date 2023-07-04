@@ -6,8 +6,8 @@
 | 規約 | 著作者 |
 |-----------|-----------
 | [HTML Coding Standards](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/html/) | WordPress | 
-| ○○○○      | ○○○○○○○○○○○ |
-| ○○○○      | ○○○○○○○○○○○ |
+| [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) | Google |
+| [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) | Airbnb |
 
 ## 目的
 既存開発メンバーの情報共有や、これから新しく入ってくるメンバーに対しても速やかに情報共有されるべく、記述されています。
